@@ -139,9 +139,16 @@ a.ex3:active {
 }
 
 .top-nav-collapse {
-	background-color: #8090fb !important;
+	background-color: #ffffff !important;
 	color: #252465;
+}
 
+.top-nav-collapse li a {
+	color: #252465 !important;
+}
+
+.top-nav-collapse li a:hover {
+	color: white !important;
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -323,4 +330,12 @@ a.ex3:active {
 .border1 {
 	border-left: 1px solid gray;
 	border-right: 1px solid gray;
+}
+
+.navbar-custom {
+	box-shadow: unset;
+}
+
+.show-custom a:hover {
+	background: rgba(102, 0, 255, 0.4) !important;
 }

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.569" height="41.718" viewBox="0 0 31.569 41.718">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Group_523" data-name="Group 523" transform="translate(-920.379 -950.379)">
+    <g id="Group_520" data-name="Group 520" transform="translate(922.5 952.5)">
+      <line id="Line_37" data-name="Line 37" class="cls-1" x2="13.663" y2="13.663"/>
+      <line id="Line_38" data-name="Line 38" class="cls-1" x1="13.663" y2="13.663" transform="translate(13.663)"/>
+    </g>
+    <g id="Group_521" data-name="Group 521" transform="translate(922.5 964.747)">
+      <line id="Line_37-2" data-name="Line 37" class="cls-1" x2="13.663" y2="13.663"/>
+      <line id="Line_38-2" data-name="Line 38" class="cls-1" x1="13.663" y2="13.663" transform="translate(13.663)"/>
+    </g>
+    <g id="Group_522" data-name="Group 522" transform="translate(922.5 976.312)">
+      <line id="Line_37-3" data-name="Line 37" class="cls-1" x2="13.663" y2="13.663"/>
+      <line id="Line_38-3" data-name="Line 38" class="cls-1" x1="13.663" y2="13.663" transform="translate(13.663)"/>
+    </g>
+  </g>
+</svg>

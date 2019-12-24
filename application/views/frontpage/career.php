@@ -26,7 +26,6 @@
     <div class=row">
      
         <div class="font-sizes font-bold">
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
           We are PATRIOT !</br>
           Prestasif, Aktif, Tanggap,!</br>
           Ramah, Integritas, Organized,!</br>

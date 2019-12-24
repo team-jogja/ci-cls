@@ -339,3 +339,7 @@ a.ex3:active {
 .show-custom a:hover {
 	background: rgba(102, 0, 255, 0.4) !important;
 }
+
+.font-location {
+	padding-top : 380px;
+}

@@ -25,7 +25,7 @@
     <div class="text-center">
     <div class=row">
      
-        <div class="font-sizes font-bold">
+        <div class="font-location font-sizes font-bold">
           We are PATRIOT !</br>
           Prestasif, Aktif, Tanggap,!</br>
           Ramah, Integritas, Organized,!</br>

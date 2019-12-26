@@ -4,8 +4,8 @@
           <div class="container">
 
             <div class="wow fadeIn white-text">
-              <p style="font-size: small;" > We Help Your Company Move To The</p>
-              <h2 class="h1-responsive font-bold" style="font-size: 80px;">
+              <p class="font-bold" style="font-size: large;" > We Help Your Company Move To The</p>
+              <h2 class="h1-responsive font-bold" style="font-size: 12vw;">
                 DIGITECHNO™</h2>
             </div>
 
@@ -133,7 +133,7 @@
   <div class="container ful-bg1">
     <div class="wow fadeIn componen_space">
       <h2 class="text-center h1 my-1 white-text mt-5">
-           EXPIERENCE THE SUCCESSFUL WITH US 
+        EXPERIENCE  THE SUCCESSFUL WITH US 
       </h2>
       <div class="text-center my-1">
       <div  class="wow fadeInUp mb-5" data-wow-delay="0.3s"><a id="tell" class="btn btn-white dark-grey-text font-bold ml-0" href="" target="_blank">TELL ME MORE</a></div>

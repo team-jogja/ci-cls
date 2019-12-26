@@ -1,185 +1,184 @@
-/* halaman home */
-
-a.ex3:hover,
-a.ex3:active {
-	background: rgba(102, 0, 255, 0.4);
-	border-radius: 5px;
-}
-
-#intro {
-	background: url("../img/home/background_1.png") no-repeat center center;
-	background-size: cover;
-}
-
-#intro1 {
-	background: url("../img/home/Component1.png") no-repeat center center;
-	background-size: cover;
-}
-
-#intro2 {
-	background: url("../img/home/background_3.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#intro3 {
-	background: url("../img/careers/career_background_1.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#intro4 {
-	background: url("../img/careers/bg_career.png") no-repeat center center;
-	background-size: cover;
-}
-
-#intro5 {
-	background: url("../img/careers/gallery.png") no-repeat center center;
-	background-size: cover;
-}
-
-#intro6 {
-	background: url("../img/careers/career_background_3_.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#about1 {
-	background: url("../img/about/image_asset1_aboutus.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#why1 {
-	background: url("../img/why/why1.png") no-repeat center center;
-	background-size: cover;
-}
-
-#why2 {
-	background: url("../img/why/why2.png") no-repeat center center;
-	background-size: cover;
-}
-
-#why3 {
-	background: url("../img/why/why3.png") no-repeat center center;
-	background-size: cover;
-}
-
-#contact1 {
-	background: url("../img/why/contact.png") no-repeat center center;
-	background-size: cover;
-}
-
-#explore {
-	background: url("../img/explore/gambar_explore.png") no-repeat center center;
-	background-size: cover;
-}
-
-#explore1 {
-	background: url("../img/explore/gambar_explore1.png") no-repeat center center;
-	background-size: cover;
-}
-
-#rms1 {
-	background: url("../img/product/rms1.png") no-repeat center center;
-	background-size: cover;
-	width: 100%;
-	height: auto;
-}
-
-#rms2 {
-	background: url("../img/product/rms2.png") no-repeat center center;
-	background-size: 1600px 720px;
-	width: 100%;
-	height: 50%;
-}
-
-#rms3 {
-	background: url("../img/product/rms3.png") no-repeat center center;
-	background-size: cover;
-	width: 100%;
-	height: auto;
-}
-
-#rms4 {
-	background: url("../img/product/rms4.png") no-repeat center center;
-	background-size: cover;
-	width: 100%;
-	height: auto;
-}
-
-#lcd {
-	background: url("../img/product/locard1.png") no-repeat center center;
-	background-size: cover;
-	width: 100%;
-	height: auto;
-}
-
-#lcd2 {
-	background: url("../img/product/locard2.png") no-repeat center center;
-	background-size: 100% auto;
-	width: 100%;
-	height: 770px;
-}
-
-#lcd3 {
-	background: url("../img/product/locardbggal.png") no-repeat center center;
-	background-size: cover;
-}
-
-#seal1 {
-	background: url("../img/product/seal1.png") no-repeat center center;
-	background-size: cover;
-}
-
-#seal2 {
-	background: url("../img/product/seal2.png") no-repeat center center;
-	background-size: cover;
-}
-
-#seal3 {
-	background: url("../img/product/seal3.png") no-repeat center center;
-	background-size: cover;
-}
-
-.top-nav-collapse {
-	background-color: #ffffff !important;
-	color: #252465;
-}
-
-.top-nav-collapse li a {
-	color: #252465 !important;
-}
-
-.top-nav-collapse li a:hover {
-	color: white !important;
-}
-
-.navbar:not(.top-nav-collapse) {
-	background-color: transparent !important;
-}
-
-@media (max-width: 768px) {
-	.navbar:not(.top-nav-collapse) {
-		background: transparent !important;
-		color: #252465;
-	}
-}
-
-#intro .h6 {
-	font-weight: 300;
-	line-height: 1.7;
-}
-
-.hm-gradient .full-bg-img {
-	background: rgba(42, 27, 161, 0.7);
-	background: linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
-}
-
-@media (max-width: 450px) {
-	.margins {
-		margin-right: 1rem;
-		margin-left: 1rem;
-	}
-}
-
-/* #pricing .lead {
+        /* halaman home */
+        
+        a.ex3:hover,
+        a.ex3:active {
+            background: rgba(102, 0, 255, 0.4);
+            border-radius: 5px;
+        }
+        
+        #intro {
+            background: url("../img/home/background_1.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #intro1 {
+            background: url("../img/home/Component1.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #intro2 {
+            background: url("../img/home/background_3.jpg") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #intro3 {
+            background: url("../img/careers/career_background_1.jpg") no-repeat left center;
+            background-size: cover;
+        }
+        
+        #intro4 {
+            background: url("../img/careers/bg_career.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #intro5 {
+            background: url("../img/careers/gallery.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #intro6 {
+            background: url("../img/careers/career_background_3_.jpg") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #about1 {
+            background: url("../img/about/image_asset1_aboutus.jpg") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #why1 {
+            background: url("../img/why/why1.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #why2 {
+            background: url("../img/why/why2.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #why3 {
+            background: url("../img/why/why3.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #contact1 {
+            background: url("../img/why/contact.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #explore {
+            background: url("../img/explore/gambar_explore.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #explore1 {
+            background: url("../img/explore/gambar_explore1.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #rms1 {
+            background: url("../img/product/rms1.png") no-repeat center center;
+            background-size: cover;
+            width: 100%;
+            height: auto;
+        }
+        
+        #rms2 {
+            background: url("../img/product/rms2.png") no-repeat center center;
+            background-size: 1600px 720px;
+            width: 100%;
+            height: 50%;
+        }
+        
+        #rms3 {
+            background: url("../img/product/rms3.png") no-repeat center center;
+            background-size: cover;
+            width: 100%;
+            height: auto;
+        }
+        
+        #rms4 {
+            background: url("../img/product/rms4.png") no-repeat center center;
+            background-size: cover;
+            width: 100%;
+            height: auto;
+        }
+        
+        #lcd {
+            background: url("../img/product/locard1.png") no-repeat center center;
+            background-size: cover;
+            width: 100%;
+            height: auto;
+        }
+        
+        #lcd2 {
+            background: url("../img/product/locard2.png") no-repeat center center;
+            background-size: 100% auto;
+            width: 100%;
+            height: 770px;
+        }
+        
+        #lcd3 {
+            background: url("../img/product/locardbggal.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #seal1 {
+            background: url("../img/product/seal1.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #seal2 {
+            background: url("../img/product/seal2.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        #seal3 {
+            background: url("../img/product/seal3.png") no-repeat center center;
+            background-size: cover;
+        }
+        
+        .top-nav-collapse {
+            background-color: #ffffff !important;
+            color: #252465;
+        }
+        
+        .top-nav-collapse li a {
+            color: #252465 !important;
+        }
+        
+        .top-nav-collapse li a:hover {
+            color: white !important;
+        }
+        
+        .navbar:not(.top-nav-collapse) {
+            background-color: transparent !important;
+        }
+        
+        #intro .h6 {
+            font-weight: 300;
+            line-height: 1.7;
+        }
+        
+        .hm-gradient .full-bg-img {
+            background: rgba(42, 27, 161, 0.7);
+            background: linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
+        }
+        
+        @media (max-width: 768px) {
+            .navbar:not(.top-nav-collapse) {
+                background: transparent !important;
+                color: #252465;
+            }
+        }
+        
+        @media (max-width: 450px) {
+            .margins {
+                margin-right: 1rem;
+                margin-left: 1rem;
+            }
+        }
+        /* #pricing .lead {
 	opacity: 0.7;
 }
 
@@ -190,156 +189,165 @@ a.ex3:active {
 #pricing ul li {
 	font-size: 1.1em;
 } */
-
-#tell {
-	background: #ffffff !important;
-	border-radius: 25px;
-}
-
-.componen_space {
-	line-height: 3.0;
-}
-
-.ful-bg1 {
-	height: -webkit-fill-available;
-}
-
-.wepro {
-	background: #252465 !important;
-}
-
-#wepro1 {
-	background: #252465 !important;
-}
-
-.static {
-	position: static;
-	border: 0.5px solid rgb(223, 223, 223);
-	background: #ffffff !important;
-	border-radius: 25px;
-	box-shadow: 2px 2px 5px rgb(98, 98, 98);
-	text-align: center;
-
-}
-
-.static1 {
-	position: static;
-	border: 0.5px solid rgb(223, 223, 223);
-	background: #ffffff !important;
-	border-radius: 8px;
-	box-shadow: 2px 2px 5px rgb(98, 98, 98);
-	text-align: center;
-
-}
-
-.img-seremoni {
-	position: absolute;
-	z-index: 1;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 35%;
-}
-
-/* halaman carrer */
-
-.justify-text {
-	text-align: justify;
-	text-justify: inter-word;
-	font-size: small;
-}
-
-.justify1-text {
-	text-align: justify;
-	text-justify: inter-word;
-	font-size: xx-small;
-}
-
-.center-text {
-	text-align: center;
-	text-justify: inter-word;
-	font-size: small;
-}
-
-.center-text1 {
-	text-align: center;
-	text-align: -webkit-center;
-	justify-content: center;
-
-}
-
-.font-sizes {
-	font-size: large;
-	color: #252465;
-}
-
-.embuh {
-	border: 0.5px solid rgb(255, 255, 255);
-	background: #ffffff !important;
-	border-radius: 25px;
-	box-shadow: 2px 2px 5px rgb(98, 98, 98);
-	text-align: center;
-
-}
-
-.embuh1 {
-	text-align: center;
-	font-size: small;
-
-}
-
-.embuh3 {
-	text-align: -webkit-center;
-
-}
-
-.embuh2 {
-	font-size: xx-small;
-
-}
-
-.devision {
-	background: #000000 !important;
-	color: #ffffff;
-	border-radius: 25px;
-}
-
-#hr {
-	border-bottom: 0.2pt solid #ffffff;
-}
-
-.right-text {
-	text-align: right;
-}
-
-.right-text1 {
-	text-align: right;
-	text-align: -webkit-right;
-	justify-content: right;
-
-}
-
-.left-text {
-	text-align: left;
-}
-
-.galeri {
-	flex-flow: row;
-}
-
-.border1 {
-	border-left: 1px solid gray;
-	border-right: 1px solid gray;
-}
-
-.navbar-custom {
-	box-shadow: unset;
-}
-
-.show-custom a:hover {
-	background: rgba(102, 0, 255, 0.4) !important;
-}
-
-.font-location {
-	padding-top : 380px;
-}
+        
+        #tell {
+            background: #ffffff !important;
+            border-radius: 25px;
+        }
+        
+        .componen_space {
+            line-height: 3.0;
+        }
+        
+        .ful-bg1 {
+            height: -webkit-fill-available;
+        }
+        
+        .wepro {
+            background: #252465 !important;
+        }
+        
+        #wepro1 {
+            background: #252465 !important;
+        }
+        
+        .static {
+            position: static;
+            border: 0.5px solid rgb(223, 223, 223);
+            background: #ffffff !important;
+            border-radius: 25px;
+            box-shadow: 2px 2px 5px rgb(98, 98, 98);
+            text-align: center;
+        }
+        
+        .static1 {
+            position: static;
+            border: 0.5px solid rgb(223, 223, 223);
+            background: #ffffff !important;
+            border-radius: 8px;
+            box-shadow: 2px 2px 5px rgb(98, 98, 98);
+            text-align: center;
+        }
+        
+        .img-seremoni {
+            position: absolute;
+            z-index: 1;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 35%;
+        }
+        /* halaman carrer */
+        
+        .justify-text {
+            text-align: justify;
+            text-justify: inter-word;
+            font-size: small;
+        }
+        
+        .justify1-text {
+            text-align: justify;
+            text-justify: inter-word;
+            font-size: xx-small;
+        }
+        
+        .center-text {
+            text-align: center;
+            text-justify: inter-word;
+            font-size: small;
+        }
+        
+        .center-text1 {
+            text-align: center;
+            text-align: -webkit-center;
+            justify-content: center;
+        }
+        
+        .font-sizes {
+            font-size: large;
+            color: #252465;
+        }
+        
+        .embuh {
+            border: 0.5px solid rgb(255, 255, 255);
+            background: #ffffff !important;
+            border-radius: 25px;
+            box-shadow: 2px 2px 5px rgb(98, 98, 98);
+            text-align: center;
+        }
+        
+        .embuh1 {
+            text-align: center;
+            font-size: small;
+        }
+        
+        .embuh3 {
+            text-align: -webkit-center;
+        }
+        
+        .embuh2 {
+            font-size: xx-small;
+        }
+        
+        .devision {
+            background: #000000 !important;
+            color: #ffffff;
+            border-radius: 25px;
+        }
+        
+        #hr {
+            border-bottom: 0.2pt solid #ffffff;
+        }
+        
+        .right-text {
+            text-align: right;
+        }
+        
+        .right-text1 {
+            text-align: right;
+            text-align: -webkit-right;
+            justify-content: right;
+        }
+        
+        .left-text {
+            text-align: left;
+        }
+        
+        .galeri {
+            flex-flow: row;
+        }
+        
+        .border1 {
+            border-left: 1px solid gray;
+            border-right: 1px solid gray;
+        }
+        
+        .navbar-custom {
+            box-shadow: unset;
+        }
+        
+        .show-custom a:hover {
+            background: rgba(102, 0, 255, 0.4) !important;
+        }
+        
+        .font-location {
+            padding-top: 400px;
+        }
+        
+        @media (min-width: 576px) {
+            .tablet-hide,
+            .desktop-hide {
+                display: none;
+            }
+        }
+        
+        @media (max-width: 575px) {
+            .carousel-mobile .carousel-item .row>div {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .mobile-hide {
+                display: none;
+            }
+        }

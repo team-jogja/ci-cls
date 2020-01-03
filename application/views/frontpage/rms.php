@@ -36,8 +36,8 @@
 <section class="py-5 lighten-4" id="rms2">
   <div class="container ful-bg1">
     <div class="row wow fadeInUp align-items-center" data-wow-delay=".3s" style="place-content: center">
-      <p class="pt-5 mt-5">
-        <h2 class=" h1-responsive">FEATURES</h2>
+      <p class="pt-5 mt-5 pl-3 ml-3">
+        <h2 class=" h1-responsive text-">FEATURES</h2>
         RMS provides a full suite of loyalty solutions and comprehensive data analytics to meet the needs of the most demanding enterprise includes application
       </p>
       
@@ -249,7 +249,7 @@
 </section>
 <section  class=" darken-4">
   <div class="galeri row">
-    <img class="img-fluid " src="<?= base_url('assets/img/product/rmsbawah.png'); ?>" high="50%" width="50%"/>
+    <img class="img-fluid " src="<?= base_url('assets/img/product/rmsbawah.png'); ?>"  width="50%"/>
     <div class="row">
       <img class="img-fluid " src="<?= base_url('assets/img/product/rmsbawah1.png'); ?>"/>
       <img class="img-fluid " src="<?= base_url('assets/img/product/rmsbawah2.png'); ?>"/>

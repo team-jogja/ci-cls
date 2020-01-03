@@ -1,5 +1,14 @@
         /* halaman home */
         
+        @font-face {
+            font-family: poppins_font;
+            src: url(../font/poppins/Poppins-Light.ttf);
+        }
+        
+        body {
+            font-family: 'poppins_font';
+        }
+        
         a.ex3:hover,
         a.ex3:active {
             background: rgba(102, 0, 255, 0.4);
@@ -47,7 +56,7 @@
         }
         
         #why1 {
-            background: url("../img/why/why1.png") no-repeat center center;
+            background: url("../img/why/why1.png") no-repeat left center;
             background-size: cover;
         }
         
@@ -62,7 +71,7 @@
         }
         
         #contact1 {
-            background: url("../img/why/contact.png") no-repeat center center;
+            background: url("../img/why/contact.png") no-repeat left center;
             background-size: cover;
         }
         
@@ -77,7 +86,7 @@
         }
         
         #rms1 {
-            background: url("../img/product/rms1.png") no-repeat center center;
+            background: url("../img/product/rms1.png") no-repeat left center;
             background-size: cover;
             width: 100%;
             height: auto;
@@ -105,17 +114,23 @@
         }
         
         #lcd {
-            background: url("../img/product/locard1.png") no-repeat center center;
+            background: url("../img/product/locard1.png") no-repeat left center;
             background-size: cover;
             width: 100%;
             height: auto;
         }
-        
-        #lcd2 {
+        /* #lcd2 {
             background: url("../img/product/locard2.png") no-repeat center center;
             background-size: 100% auto;
             width: 100%;
             height: 770px;
+        } */
+        
+        #lcd2 {
+            background: url("../img/product/locard2.png") no-repeat left center;
+            background-size: cover;
+            width: 100%;
+            height: auto;
         }
         
         #lcd3 {
@@ -148,7 +163,7 @@
         }
         
         .top-nav-collapse li a:hover {
-            color: white !important;
+            color: #252465 !important;
         }
         
         .navbar:not(.top-nav-collapse) {
@@ -163,20 +178,6 @@
         .hm-gradient .full-bg-img {
             background: rgba(42, 27, 161, 0.7);
             background: linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
-        }
-        
-        @media (max-width: 768px) {
-            .navbar:not(.top-nav-collapse) {
-                background: transparent !important;
-                color: #252465;
-            }
-        }
-        
-        @media (max-width: 450px) {
-            .margins {
-                margin-right: 1rem;
-                margin-left: 1rem;
-            }
         }
         /* #pricing .lead {
 	opacity: 0.7;
@@ -313,6 +314,12 @@
             text-align: left;
         }
         
+        .left-text1 {
+            text-align: left;
+            text-align: -webkit-left;
+            justify-content: left;
+        }
+        
         .galeri {
             flex-flow: row;
         }
@@ -324,6 +331,7 @@
         
         .navbar-custom {
             box-shadow: unset;
+            color: rgba(102, 0, 255, 0.4) !important;
         }
         
         .show-custom a:hover {
@@ -332,6 +340,10 @@
         
         .font-location {
             padding-top: 400px;
+        }
+        
+        .font-location1 {
+            padding-top: 100px;
         }
         
         @media (min-width: 576px) {
@@ -349,5 +361,28 @@
             }
             .mobile-hide {
                 display: none;
+            }
+        }
+        /*  */
+        
+        @media (max-width: 768px) {
+            .navbar:not(.top-nav-collapse) {
+                background: white !important;
+            }
+            #test {
+                color: #252465;
+            }
+            #why-font {
+                font-size: 12px;
+            }
+            #font-location2 {
+                padding-top: 400px;
+            }
+        }
+        
+        @media (max-width: 450px) {
+            .margins {
+                margin-right: 1rem;
+                margin-left: 1rem;
             }
         }

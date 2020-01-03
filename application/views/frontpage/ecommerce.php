@@ -5,7 +5,7 @@
 
           <div class="row wow fadeInUp align-items-center" data-wow-delay=".3s">
               
-              <div class="col-lg-6 col-xl-5 pb-3">
+              <div class="col-lg-6 col-xl-5 pb-3 pb-5">
                   <img class="img-fluid " src="<?= base_url('assets/img/product/locardputih.png'); ?>" high="30%" width="30%" /><br>
                   <p class="mt-3 white-text left-text" style="font-size: medium;">
                     OUR FIRST E-COMMERCE
@@ -39,15 +39,15 @@
     </header>
     <div id="content">
 
-<section class="py-5 lighten-4">
-  <div class="container ful-bg1 d-flex align-items-center">
+<section class="view py-5 lighten-4">
+  <div class="container ful-bg1">
     <div class="row wow fadeInUp align-items-center" data-wow-delay=".3s" style="place-content: center">
-            
-        <div class="col-lg-8 col-xl-6 pb-3">
-            <p class="col-lg-12 pb-2">
+
+        <div class="col-lg-8 col-xl-6 pb-3 right-text1">
+            <p class="col-lg-12 pb-2 ">
                 <img class="img-fluid " src="<?= base_url('assets/img/product/locardsub1.png'); ?>"/>
             </p>
-        </div>
+        </div>   
 
         <div class="col-lg-8 col-xl-6 pb-3 justify-text">
             <div class=" row px-5 mt-5 pt-5">
@@ -101,10 +101,7 @@
             </div>
 
         </div>
-
-        </div>
-    </div>
-
+        
   </div>
 </section>
 
@@ -145,52 +142,52 @@
   </div>
 </section>
 
-<section class="text-center py-5  lighten-4">
+  <!-- carousel -->
+  <section class="text-center py-5  lighten-4 mobile-hide">
   <div class="container">
-    <h2 class="text-center ">MERCHANT PARTNER</h2>
        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
             <div class="row">
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture1.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture2.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture3.png'); ?>" high="50%" width="50%"></div></br>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture4.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture5.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture6.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture1.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture2.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture3.png'); ?>" high="50%" width="50%"></div></br>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture4.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture5.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture6.png'); ?>" high="50%" width="50%"></div>           
             </div>
             </div>
 
             <div class="carousel-item">
             <div class="row">
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture7.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture8.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture9.png'); ?>" high="50%" width="50%"></div></br>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture10.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture11.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture12.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture7.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture8.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture9.png'); ?>" high="50%" width="50%"></div></br>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture10.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture11.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture12.png'); ?>" high="50%" width="50%"></div>           
             </div>
             </div>
 
             <div class="carousel-item">
             <div class="row">
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture13.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture14.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture15.png'); ?>" high="50%" width="50%"></div></br>          
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture16.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture17.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture18.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture13.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture14.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture15.png'); ?>" high="50%" width="50%"></div></br>          
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture16.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture17.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture18.png'); ?>" high="50%" width="50%"></div>           
             </div>
             </div>
             
             <div class="carousel-item">
             <div class="row">
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture19.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture20.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture21.png'); ?>" high="50%" width="50%"></div></br>          
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture22.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture23.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4  pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture24.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture19.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture20.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture21.png'); ?>" high="50%" width="50%"></div></br>          
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture22.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture23.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture24.png'); ?>" high="50%" width="50%"></div>           
             </div>
             </div>
 
@@ -200,6 +197,31 @@
             <span class="sr-only">Previous</span>
         </a>
         <a  id="" class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+        </div>
+  </div>
+</section>
+
+       <!-- carousel -->
+<section class="text-center py-5  lighten-4 tablet-hide desktop-hide carousel-mobile">
+  <div class="container">
+       <div id="carouselExampleControls2" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <?php for($i=1; $i<=37; $i++){ ?>
+          <div class="carousel-item <?= $i!=1?"":"active"; ?>">
+            <div class="row">
+              <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture'.$i.'.png'); ?>"  width="50%" ></div> 
+            </div>
+          </div>
+          <?php } ?>
+        </div>
+        <a id="" class="carousel-control-prev" href="#carouselExampleControls2" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a  id="" class="carousel-control-next" href="#carouselExampleControls2" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
         </a>

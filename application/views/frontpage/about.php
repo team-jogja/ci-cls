@@ -4,7 +4,7 @@
           <div class="container">
 
             <div class="wow fadeIn white-text">
-              <p class="font-bold" style="font-size: large;" > We Help Your Company Move To The</p>
+              <p class="font-bold mb-0" style="font-size: 3vw;" > We Help Your Company Move To The</p>
               <h2 class="h1-responsive font-bold" style="font-size: 12vw;">
                 DIGITECHNO™</h2>
             </div>

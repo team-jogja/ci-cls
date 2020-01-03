@@ -3,8 +3,8 @@
           <div class="container">
 
           <div class="row wow fadeInUp align-items-center" data-wow-delay=".3s">
-                <p class="mt-3 mb-5 white-text left-text font-bold" style="font-size:  40px;">
-                  EXPERIENCE BOTH TOP AND BOTTOOM LINES </br>
+                <p class="mt-3 mb-5 ml-3 white-text left-text font-bold" id="why-font" style="font-size: 40px">
+                  EXPERIENCE BOTH TOP AND BOTTOM LINES</br>
                   BENEFITS WITH US
                 </p></br>
               <div class="col-lg-6 col-xl-5 pb-3 mt-5">

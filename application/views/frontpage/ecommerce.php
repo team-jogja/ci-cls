@@ -14,7 +14,7 @@
                       POINTS, DEALS, GIFTS
                   </p>
                   <p class="justify-text mt-3 white-text" style="font-size: x-small;" >
-                  LOCARD adalah platform eCommerce Loyalty Program yang dirancang untuk memberikan pengalaman belanja voucher / deals online yang mudah, aman, cepat dan memberikan keuntungan kepada pengguna LoCard dalam memperoleh Poin saat bertransaksi di seluruh Club Merchant LOCARD.
+                  LOCARD is an eCommerce Loyalty Program platform designed to provide an easy, secure, fast online voucher / deals shopping experience and gives LoCard users the benefits of earning Points when transacting throughout the LOCARD Merchant Club
                   </p>
                   <p class="mt-3 white-text center-text mt-5" style="font-size: medium;">
                     Available Download
@@ -63,7 +63,7 @@
                 <h4 class=" h4-responsive">Locky Points</h4>
                 <div class="row">
                 <div class="col-12 mr-1" style="font-size : x-small"><p>
-                  Nikmati Kemudahan Mengumpulkan dan Menukarkan Poin. Banyak Keuntungan Menantimu !
+                Enjoy the ease of collecting and redeem points. A lot of benefit await for you!
                 </p></div></div>
               </div>
             </div>
@@ -79,7 +79,7 @@
                 <h4 class=" h4-responsive">Locky Gifts</h4>
                 <div class="row mb-1">
                 <div class="col-12 mr-1" style="font-size : x-small"><p>
-                  Dapatkan Produk Favoritmu dengan Menukarkan Poin. 
+                Get your favorite products by redeeming points. 
                 </p></div></div>
               </div>
             </div>
@@ -95,7 +95,7 @@
                 <h4 class=" h4-responsive">Locky Deals</h4>
                 <div class="row mb-1">
                 <div class="col-12 mr-1" style="font-size : x-small"><p>
-                  Beragam Promo Paket dan Diskon E-Voucher / E-Coupon Menarik dari Merchant Club Locard yang dapat ditukarkan dengan Poin.
+                Various promo packages and interesting discounts E-Vouchers / E-Coupons from LOCARD Merchant Club that can be redeemed use Points.
                 </p></div></div>
               </div>
             </div>
@@ -114,25 +114,25 @@
                 <img class="img-fluid " src="<?= base_url('assets/img/product/locardsub2.png'); ?>"high="70%" width="70%"/>
             </p>
         </div>
-        <div class="col-lg-8 col-xl-6 pb-3 white-text">
+        <div class="col-lg-8 col-xl-6 pb-3 white-text" id="lcds1">
             <h4 class=" h4-responsive">BE A MEMBER</h4>
              <div class="row mb-1">
-               <div class="col-8 mr-1" style="font-size : x-small"><p>
-                Join sekarang juga! dan dapatkan 100 Locky Points untuk member yang baru bergabung. Tingkatkan transaksi, kumpulkan serta tukarkan Poinnya hanya di LoCard! Register  now, only on apps
+               <div class="col-8 mr-1" id="lcds" style="font-size : small"><p>
+               Join now! and get 100 Locky Points for new members.
                 </p></div></div>
         </div>
 
         <div class="row align-items-center" >
-        <div class="col-lg-8 col-xl-6 pb-3 white-text">
+        <div class="col-lg-8 col-xl-6 pb-3 white-text" style="right: 40%">
                 <h4 class=" h4-responsive">GET IN TOUCH</h4>
-                <div class="row mb-1">
-                <div class="col-10" style="font-size : x-small"><p>
-                Join sekarang juga! dan dapatkan 100 Locky Points untuk member yang baru bergabung. Tingkatkan transaksi, kumpulkan serta tukarkan Poinnya hanya di LoCard! Register now, only on apps 
+                <div class="row mb-1" style="width: max-content">
+                <div class="col-8 mr-1" style="font-size : small"><p style="width: max-content">
+                Increase transactions, collect and redeem points only in LOCARD!
                 </p></div></div>
         </div>
-        <div class="col-lg-8 col-xl-6 pb-3 ">
+        <div class="col-lg-8 col-xl-6 pb-3" id="lcds1">
             <p class="col-lg-12 pb-2">
-            <div class="text-center">
+            <div class="text-center" id="lcds" style="left: 100%">
               <a id="tell" class="btn btn-white dark-grey-text font-bold ml-0" href="" target="_blank">Click Here</a>
             </div>
             </p>
@@ -145,59 +145,73 @@
   <!-- carousel -->
   <section class="text-center py-5  lighten-4 mobile-hide">
   <div class="container">
+  <h4 class=" h4-responsive pb-3">MERCHANT PARTNER</h4>
        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
             <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture1.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture2.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture3.png'); ?>" high="50%" width="50%"></div></br>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture4.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture5.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture6.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture1.png'); ?>" hight="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture2.png'); ?>" hight="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture3.png'); ?>" hight="50%" width="50%"></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture4.png'); ?>" hight="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture5.png'); ?>" hight="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture6.png'); ?>" hight="50%" width="50%"></div></br>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture7.png'); ?>" hight="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture8.png'); ?>" hight="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture9.png'); ?>" hight="50%" width="50%"></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture10.png'); ?>" hight="50%" width="50%"></div>         
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture11.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture12.png'); ?>" hight="50%" width="50%"></div>           
             </div>
             </div>
 
             <div class="carousel-item">
             <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture7.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture8.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture9.png'); ?>" high="50%" width="50%"></div></br>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture10.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture11.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture12.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture13.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture14.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture15.png'); ?>" hight="50%" width="50%"></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture16.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture17.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture18.png'); ?>" hight="50%" width="50%"></div></br>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture19.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture20.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture21.png'); ?>" hight="50%" width="50%"></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture22.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture23.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture24.png'); ?>" hight="50%" width="50%"></div>          
             </div>
             </div>
 
             <div class="carousel-item">
             <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture13.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture14.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture15.png'); ?>" high="50%" width="50%"></div></br>          
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture16.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture17.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture18.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture25.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture26.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture27.png'); ?>" hight="50%" width="50%"></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture28.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture29.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture30.png'); ?>" hight="50%" width="50%"></div></br>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture31.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture32.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture33.png'); ?>" hight="50%" width="50%"></div>
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture34.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture35.png'); ?>" hight="50%" width="50%"></div>          
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture36.png'); ?>" hight="50%" width="50%"></div>         
             </div>
             </div>
             
             <div class="carousel-item">
             <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture19.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture20.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture21.png'); ?>" high="50%" width="50%"></div></br>          
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture22.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture23.png'); ?>" high="50%" width="50%"></div>           
-            <div class="col-lg-4 col-md-4 col-sm-4 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture24.png'); ?>" high="50%" width="50%"></div>           
+            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture37.png'); ?>" hight="50%" width="50%"></div>  
             </div>
             </div>
 
         </div>
         <a id="" class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="carousel-control-prev-icon" id="carousel_left" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
         </a>
         <a  id="" class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="carousel-control-next-icon" id="carousel_right" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
         </a>
         </div>

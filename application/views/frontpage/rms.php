@@ -12,10 +12,10 @@
                   </p>
                   <p class="center-text mt-3 white-text" >
                       
-                      Through the RMS platform, grow your company and increase repeat sales with a customer loyalty program. For more than 10 years, CLS has provided cutting-edge IT solutions for partners and clients for the best-in-class customer loyalty program.
+                  Through the RMS platform, grow your company and increase repeat sales with a customer loyalty program. For more than 10 years, CLS has provided cutting-edge IT solutions for partners and clients for the best-in-class customer loyalty program.
                   </p>
                   <p class="mt-5">
-                    <button class="btn btn-white dark-grey-text font-bold ml-0 waves-effect waves-light" id="tell" type="submit"> REQUEST A DEMO</button>
+                    <a class="btn btn-white dark-grey-text font-bold ml-0 waves-effect waves-light" id="tell" href="<?= base_url('frontpage/contact');?>"> REQUEST A DEMO</a>
                   </p>
               </div>
 
@@ -231,7 +231,7 @@
     Try RMS ENTERPRISE Digital Loyalty Reward System and see how loyalty rewards work for your customers and your business.
     </p>
       <div class="text-center my-1">
-      <div  class="wow fadeInUp mb-5" data-wow-delay="0.3s"><a id="tell" class="btn btn-white dark-grey-text font-bold ml-0" href="" target="_blank">Talk to Us</a></div>
+      <div  class="wow fadeInUp mb-5" data-wow-delay="0.3s"><a id="tell" class="btn btn-white dark-grey-text font-bold ml-0" href="<?= base_url('frontpage/contact');?>" target="_blank">Talk to Us</a></div>
       </div>
          </div>
   </div>

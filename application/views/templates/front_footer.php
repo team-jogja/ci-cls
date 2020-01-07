@@ -7,13 +7,13 @@
       <div class="col-lg-2 mb-3">
       <img class="img-fluid" src="<?= base_url('assets/img/logo-cls-fa putih.png'); ?>"high="50%" width="50%"/><br>
       <p class="white-text justify1-text">
-        PT CLS System is The Total Integrated Loyalty Consulting that provides strategic consultation to clients on how best to design, structure, implement and manage a Loyalty Program in the long run trough IT Support & System Integration.
+       CLS SYSTEM is <span style=" font-weight: bold; font-style:italic;">  One of The Leading Technology Companies in Asia. </span> Since 2007 we focus in LOYALTY SOLUTION MANAGEMENT such as Consultation, IT Loyalty Solution Infrastructure, CRM, SaaS (software as service), mobile applications, and Fulfillment Gift Reward.
       </p>
       <div class="row ml-2 embuh3">
-        <img class="img-fluid mr-3" src="<?= base_url('assets/img/Group28.png'); ?>"high="10%" width="10%"/>
-        <img class="img-fluid mr-3" src="<?= base_url('assets/img/linkedin.svg'); ?>"high="10%" width="10%"/>
-        <img class="img-fluid mr-3" src="<?= base_url('assets/img/facebook.svg'); ?>"high="10%" width="10%"/>
-        <img class="img-fluid mr-3" src="<?= base_url('assets/img/twitter.svg'); ?>"high="10%" width="10%"/>
+        <img class="img-fluid mr-3" src="<?= base_url('assets/img/Group28.png'); ?>"hight="10%" width="10%"/>
+        <img class="img-fluid mr-3" src="<?= base_url('assets/img/linkedin.svg'); ?>"hight="10%" width="10%"/>
+        <img class="img-fluid mr-3" src="<?= base_url('assets/img/facebook.svg'); ?>"hight="10%" width="10%"/>
+        <img class="img-fluid mr-3" src="<?= base_url('assets/img/twitter.svg'); ?>"hight="10%" width="10%"/>
       </div>
       </div>
 
@@ -35,7 +35,7 @@
       <div class="col-lg-2 mb-2">
         <p class="font-bold" style="font-size: small">LATEST RELEASE</p>
         <div class="justify1-text pb-3">
-          Independrnt Day !
+          New Millennium in Digital Era
         </div>
 
         <div class="justify1-text pb-3">
@@ -61,19 +61,15 @@
       <div class="col-lg-2 mb-2">
         <p class="font-bold" style="font-size: small">OUR PRODUCT</p>
         <div class="justify1-text pb-3">
-          B2B White Label
+          Loyalty Program Platform
         </div>
-
-        <div class="justify1-text pb-3">
-          RMS (Reword Management System)
-        </div>
-                      
+                   
         <div class="justify1-text  pb-3">
           E-Commerce
         </div>  
 
         <div class="justify1-text">
-          Prochurement & Fullfillment
+          Fulfillment
         </div>  
 
     </div>

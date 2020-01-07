@@ -310,6 +310,24 @@
             justify-content: right;
         }
         
+        #carousel_right {
+            margin-right: -195px;
+        }
+        
+        #carousel_left {
+            margin-left: -195px;
+        }
+        
+        #lcds {
+            width: 100%;
+            position: absolute;
+        }
+        
+        #lcds1 {
+            width: 100%;
+            padding-left: 17%;
+        }
+        
         .left-text {
             text-align: left;
         }

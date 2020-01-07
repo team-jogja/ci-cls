@@ -25,7 +25,7 @@
                 <a class="nav-link dropdown-toggle ex3" id="test" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">PROFILE</a>
                 <div class="dropdown-menu ">
                   <a class="dropdown-item" id="test" href="<?= base_url('frontpage/about');?>">ABOUT US</a>
-                  <a class="dropdown-item" id="test" href="<?= base_url('frontpage/why');?>">WHY CLS?</a>
+                  <!-- <a class="dropdown-item" id="test" href="<?= base_url('frontpage/why');?>">WHY CLS?</a> -->
               </li>
 
               <li class="nav-item dropdown">

@@ -21,7 +21,7 @@
     <h1 class="h1 my-1">WHAT IS DIGITECHNO™?</h1>
     <img mb-3 src="<?= base_url('assets/img/home/Rectangle21.png'); ?>">
       <p class="justify-text mt-3">
-      Teknologi berkembang dan berubah secara cepat. Kehidupan manusia saat ini perlahan-lahan mulai berubah dan teknologi semakin berevolusi menjadi lebih baik. Sebagai manusia kita menghadapi hal- hal yang berhubungan dengan DIGITECHNO™ dimana kita diberi kemudahan. Dari sisi perusahaan, dapat menciptakan peluang pengembangan bisnis yang lebih luas sehingga teknologi dan strategi yang dimiliki dapat terus digunakan oleh manusia sebagai pelanggan bisnis mereka.
+      Technology is evolving and changing rapidly. Today's human life is slowly changing and technology is increasingly revolution for the better. As humans, we face matters related to DIGITECHNO ™ where we are given easily. From the company side, it can create wider business development opportunities so that the technology and strategies that are owned can continue to be used by humans as their business customers.
       </p>
       </div>
   </div>
@@ -41,21 +41,19 @@
             <p class="px-5 mb-5 pb-3">
                 <h4 class=" font-bold">OUR HISTORY</h4>
                 <img src="<?= base_url('assets/img/careers/Rectangle21.png'); ?>"></br>
-                CLS SYSTEM merupakan anak perusahaan dari AIM Group yang berbasis di Malaysia dan merupakan salah satu perusahaan teknologi terkemuka di Asia serta berfokus pada e-Commerce , fullfilment, Loyalty Solution, SaaS (software as service), and mobile applications.
-
-                Sejak 2007 kami mendukung dan membantu perusahaan local maupun multinasional untuk membangun hubungan baik terhadap pelanggan mereka dengan menggunakan platform loyalitas kami yang menampilkan promosi terbaik dari merchant. Misi kami adalah memanfaatkan teknologi kami untuk memberikan solusi kepada mitra/klien dalam mencapai tujuan mereka.
+                CLS SYSTEM is a subsidiary of AIM Group based in Southeast Asia (Indonesia, Malaysia, Singapore & Hongkong) which is <span style=" font-weight: bold; font-style:italic;">  One of The Leading Technology Companies in Asia.</span> Since 2007 we support and help local and multinational companies to build good relationships with their customers by using our loyalty platform that creates the best promotions from merchants. We focus in LOYALTY SOLUTION As regional solution provider offering a broad spectrum of loyalty management services from Consultation, IT Loyalty Solution Infrastructure, CRM, SaaS (software as service), mobile applications, and Fulfillment Gift Reward.
             </p>
 
             <p class="px-5 mb-5 pb-3">
                 <h4 class=" font-bold">VISION</h4>
-                <img src="<?= base_url('assets/img/careers/Rectangle21.png'); ?>"></br>
-                CLS is committed in providing a total, integrated loyalty marketing solution for our clients to build and nurture a life long relationship with its customers.
+                <img src="<?= base_url('assets/img/careers/Rectangle21.png'); ?>"></br> <span style=" font-weight: bold;">
+                “ Being The Best Customer Loyalty Platform & Profitable For Customers by Providing Convenience in Collecting and Exchanging Points “ </span>
             </p>
 
             <p class="px-5 mb-5 pb-3">
                 <h4 class=" font-bold">MISSION</h4>
-                <img src="<?= base_url('assets/img/careers/Rectangle21.png'); ?>"></br>
-                To harness our proprietary technology, people and process to deliver total integrated and customized loyalty management solutions to complement our clients in achieving their objectives.
+                <img src="<?= base_url('assets/img/careers/Rectangle21.png'); ?>"></br> <span style=" font-weight: bold;">
+                “ Utilizing our technology to provide solutions to partners/clients in achieving their goals” </span>
             </p>
         </div>
     </div>
@@ -88,8 +86,8 @@
                     <img class="img-fluid" src="<?= base_url('assets/img/about/4 kantor cabang.svg'); ?>"high="50%" width="50%"/><br>
                     <h1 class=" white-text font-bold">4</h1>
                     <p class="white-text center-text">
-                    Kantor Cabang </br>
-                    di Asia Tenggara
+                    Branch Offices in The </br>
+                    Southeast Asia
                     </p>
                 </div>
             </div>
@@ -98,7 +96,7 @@
                     <img class="img-fluid" src="<?= base_url('assets/img/about/Companies run withCLS Technology.svg'); ?>"high="50%" width="50%"/><br>
                     <h1 class=" white-text font-bold">150</h1>
                     <p class="white-text center-text">
-                    Companies run with </br>
+                    Companies Run With </br>
                     CLS Technology
                     </p>
                 </div>
@@ -108,8 +106,8 @@
                     <img class="img-fluid" src="<?= base_url('assets/img/about/Brands to Coorporate with.svg'); ?>"high="50%" width="50%"/><br>
                     <h1 class=" white-text font-bold">300+</h1>
                     <p class="white-text center-text">
-                    Brands to</br>
-                    Coorporate with
+                    Leading Brands</br>
+                    Partners With Us
                     </p>
                 </div>
             </div>
@@ -118,8 +116,8 @@
                     <img class="img-fluid" src="<?= base_url('assets/img/about/Members on CLS platform technology.svg'); ?>"high="50%" width="50%"/><br>
                     <h1 class=" white-text font-bold">316K+</h1>
                     <p class="white-text center-text">
-                    Members on CLS </br>
-                    platform technology
+                    Members on </br>
+                    Platform Technology
                     </p>
                 </div>
             </div>
@@ -133,7 +131,7 @@
   <div class="container ful-bg1">
     <div class="wow fadeIn componen_space">
       <h2 class="text-center h1 my-1 white-text mt-5">
-        EXPERIENCE  THE SUCCESSFUL WITH US 
+      GET A SUCCESSFUL EXPERIENCE WITH US 
       </h2>
       <div class="text-center my-1">
       <div  class="wow fadeInUp mb-5" data-wow-delay="0.3s"><a id="tell" class="btn btn-white dark-grey-text font-bold ml-0" href="" target="_blank">TELL ME MORE</a></div>

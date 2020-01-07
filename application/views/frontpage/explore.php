@@ -96,9 +96,9 @@
                     
                     Through the RMS platform, grow your company and increase repeat sales with a customer loyalty program. For more than 10 years, CLS has provided cutting-edge IT solutions for partners and clients for the best-in-class customer loyalty program.
                 </p>
-                <p class="font-bold right-text" style="font-size: small;" >
+                <a class="font-bold right-text" style="font-size: small;" href="<?= base_url('frontpage/rms');?>">
                     LEARN MORE <i class="fa fa-long-arrow-right"></i>
-                </p>
+                </a>
           </div>
         </div>
         
@@ -112,9 +112,9 @@
                   
                     LOCARD is an eCommerce Loyalty Program platform designed to provide an easy, secure, fast online voucher / deals shopping experience that benefits LoCard users in earning Points when transacting throughout the LOCARD Merchant Club.   
                 </p>
-                <p class="font-bold right-text" style="font-size: small;" >
+                <a class="font-bold right-text" style="font-size: small;" href="<?= base_url('frontpage/ecommerce');?>">
                     LEARN MORE <i class="fa fa-long-arrow-right"></i>
-                </p>
+                </a>
           </div>
         </div>
         
@@ -128,9 +128,9 @@
                  
                     SEAL (Service Excelent and Logistic), is a fulfillment service solution that can provide merchandise buying and selling experience throughout the world to support and manage your company's or brand loyalty marketing program through an integrated system ...
                 </p>
-                <p class="font-bold right-text" style="font-size: small;" >
+                <a class="font-bold right-text" style="font-size: small;" href="<?= base_url('frontpage/fullfillment');?>">
                     LEARN MORE <i class="fa fa-long-arrow-right"></i>
-                </p>
+                </a>
           </div>
         </div>
         

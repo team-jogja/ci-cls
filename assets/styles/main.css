@@ -1,5 +1,9 @@
         /* halaman home */
         
+        html {
+            scroll-behavior: smooth;
+        }
+        
         @font-face {
             font-family: poppins_font;
             src: url(../font/poppins/Poppins-Light.ttf);
@@ -7,6 +11,7 @@
         
         body {
             font-family: 'poppins_font';
+            scroll-behavior: smooth;
         }
         
         a.ex3:hover,
@@ -119,19 +124,15 @@
             width: 100%;
             height: auto;
         }
-        /* #lcd2 {
-            background: url("../img/product/locard2.png") no-repeat center center;
-            background-size: 100% auto;
-            width: 100%;
-            height: 770px;
-        } */
         
         #lcd2 {
-            background: url("../img/product/locard2.png") no-repeat left center;
-            background-size: cover;
-            width: 100%;
-            height: auto;
+            background: url("../img/product/locard2.png") no-repeat center center;
+            background-size: 100% 100%;
         }
+        /* #lcd2 {
+            background: url("../img/product/locard2.png") no-repeat left center;
+            background-size: 100% 100%;
+        } */
         
         #lcd3 {
             background: url("../img/product/locardbggal.png") no-repeat center center;
@@ -362,6 +363,26 @@
         
         .font-location1 {
             padding-top: 100px;
+        }
+        
+        .transform_custom {
+            transform: translate(0px, 55px);
+        }
+        
+        .transform_text {
+            transform: translate(0px, 50px);
+        }
+        
+        .transform_home {
+            transform: translate(550px, 200px);
+        }
+        
+        #godown {
+            height: 600px;
+        }
+        
+        #goup {
+            height: 600px;
         }
         
         @media (min-width: 576px) {

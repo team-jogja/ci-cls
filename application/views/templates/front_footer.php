@@ -1,19 +1,19 @@
-<footer class="wepro view py-5 white-text">
+<footer class="wepro view  white-text">
 
   <div class="" >
-    <div class="wow fadeIn">
+    <div class="wow fadeIn pt-4">
     <div class="row col-lg-12" style="justify-content: center;">
 
       <div class="col-lg-2 mb-3">
-      <img class="img-fluid" src="<?= base_url('assets/img/logo-cls-fa putih.png'); ?>"high="50%" width="50%"/><br>
+      <img class="img-fluid" src="<?= base_url('assets/img/logo-cls-fa putih.png'); ?>"height="50%" width="50%"/><br>
       <p class="white-text justify1-text">
        CLS SYSTEM is <span style=" font-weight: bold; font-style:italic;">  One of The Leading Technology Companies in Asia. </span> Since 2007 we focus in LOYALTY SOLUTION MANAGEMENT such as Consultation, IT Loyalty Solution Infrastructure, CRM, SaaS (software as service), mobile applications, and Fulfillment Gift Reward.
       </p>
-      <div class="row ml-2 embuh3">
-        <img class="img-fluid mr-3" src="<?= base_url('assets/img/Group28.png'); ?>"hight="10%" width="10%"/>
-        <img class="img-fluid mr-3" src="<?= base_url('assets/img/linkedin.svg'); ?>"hight="10%" width="10%"/>
-        <img class="img-fluid mr-3" src="<?= base_url('assets/img/facebook.svg'); ?>"hight="10%" width="10%"/>
-        <img class="img-fluid mr-3" src="<?= base_url('assets/img/twitter.svg'); ?>"hight="10%" width="10%"/>
+      <div class="row  embuh3">
+        <a href="https://www.instagram.com/pt_cls_system/"><img class="img-fluid ml-2 mr-3" src="<?= base_url('assets/img/instagram.svg'); ?>"height="10%" width="10%"/></a> 
+        <a href="https://www.linkedin.com/in/pt-cls-system/"><img class="img-fluid ml-2 mr-3" src="<?= base_url('assets/img/linkedin.svg'); ?>"height="10%" width="10%"/></a> 
+        <a href="https://twitter.com/cls_system"><img class="img-fluid ml-2 mr-3" src="<?= base_url('assets/img/facebook.svg'); ?>"height="10%" width="10%"/></a> 
+        <a href="https://www.facebook.com/PT-CLS-System-106976076848507/"><img class="img-fluid ml-2 mr-3" src="<?= base_url('assets/img/twitter.svg'); ?>"height="10%" width="10%"/></a> 
       </div>
       </div>
 

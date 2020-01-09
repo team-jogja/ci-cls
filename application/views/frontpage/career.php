@@ -157,7 +157,7 @@
 
 
 <section class="text-center py-5">
-<div class="full-bg-img d-flex align-items-center">
+<div class="full-bg-img d-flex align-items-center"style="text-align: -webkit-center">
   <div id="fontt1" class="container">
   <div class="wow fadeIn">
       

@@ -4,8 +4,8 @@
           <div class="container">
 
             <div class="wow fadeIn white-text">
-              <p class="font-bold mb-0" style="font-size: 3vw;" > We Help Your Company Move To The</p>
-              <h2 class="h1-responsive font-bold" style="font-size: 12vw;">
+              <p class="font-bold mb-0" style="font-size: 2vw;" > We Help Your Company Move To The</p>
+              <h2 class="h1-responsive font-bold" style="font-size: 7vw;">
                 DIGITECHNO™</h2>
             </div>
 
@@ -134,7 +134,7 @@
       GET A SUCCESSFUL EXPERIENCE WITH US 
       </h2>
       <div class="text-center my-1">
-      <div  class="wow fadeInUp mb-5" data-wow-delay="0.3s"><a id="tell" class="btn btn-white dark-grey-text font-bold ml-0" href="" target="_blank">TELL ME MORE</a></div>
+      <div  class="wow fadeInUp mb-5" data-wow-delay="0.3s"><a id="tell" class="btn btn-white dark-grey-text font-bold ml-0"href="<?= base_url('frontpage/contact');?>" >TELL ME MORE</a></div>
       </div>
          </div>
   </div>

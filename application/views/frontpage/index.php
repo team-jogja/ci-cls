@@ -1,43 +1,73 @@
       <!-- Intro Section-->
-      <section class="view" id="intro">
-        <!-- <img src="<?= base_url('assets/img/home/background_1.png'); ?>"> -->
+      <!-- <section class="view" id="intro">
         <div class="full-bg-img d-flex align-items-center">
           <div class="container">
             <div class="row no-gutters">
-              <div class="col-md-10 col-lg-6 text-center text-md-left margins">
+              <div class="col-md-12 col-lg-6 text-center text-md-left margins">
                 <div class="white-text">
                   <div class="wow fadeInLeft" data-wow-delay="0.3s">
-                    <h1 class="h1-responsive font-bold mt-sm-5 my-1">MEET WITH US</h1>
+                    <h1 class="h1-responsive font-bold mt-sm-5 my-1" style="font-size: 5.1vw">MEET WITH US</h1>
                     <div class="h6">
                         THE ONLY ONE INDONESIAN COMPANY OVER CUSTOMER LOYALTY
                     </div>
-                    <div class="h6 mt-sm-3">
+                    <div class="mt-sm-3" style="font-size: small">
                         We excel in providing customized solutions for order management, multichannel distribution, customer care, value-added services and E-commerce things.
-                    </div>
-                    <button class="btn btn-white dark-grey-text font-bold ml-0 waves-effect waves-light blue1-text" id="tell" type="submit"> Tell Me more</button>
+                    </div></br>
+                    <a class="btn btn-white dark-grey-text font-bold ml-0 waves-effect waves-light blue1-text" id="tell" href="<?= base_url('frontpage/contact');?>"> Tell Me more</a>
                   </div>
+
+                  <a class="btn btn-white dark-grey-text font-bold ml-0 waves-effect waves-light blue1-text" id="tell" href="<?= base_url('frontpage/contact');?>"> Tell Me more</a>
+
               </div>
+              <a href="#turun"> <img class="img-fluid transform_home" src="<?= base_url('assets/img/home/Group523.png'); ?>" height="3%" width="3%"/></a>
             </div>
           </div>
+        </div>
+      </section> -->
+      <section class="view" id="intro">
+        <div class="container ful-bg1 d-flex">
+          <div class="row wow fadeInUp align-items-center no-gutters" data-wow-delay=".3s" style="place-content: center">
+                  
+              <div class="col-lg-8 col-xl-6 pb-3 white-text">
+                  <h4 class=" h1-responsive" style="font-size: 5.1vw">MEET WITH US</h4>
+                  <div class="h6">
+                        THE ONLY ONE INDONESIAN COMPANY OVER CUSTOMER LOYALTY
+                    </div>
+                    <div class="mt-sm-3" style="font-size: small">
+                        We excel in providing customized solutions for order management, multichannel distribution, customer care, value-added services and E-commerce things.
+                    </div></br>
+                    <a class="btn btn-white dark-grey-text font-bold ml-0 waves-effect waves-light blue1-text" id="tell" href="<?= base_url('frontpage/contact');?>"> Tell Me more</a>
+                    <a href="#turun"> <img class="img-fluid transform_home" src="<?= base_url('assets/img/home/Group523.png'); ?>" height="3%" width="3%"/></a>
+              </div>
+              <div class="col-lg-8 col-xl-6 pb-3 right-text1">
+                  <p class="col-lg-12 pb-2 ">
+                  <a href="https://www.instagram.com/pt_cls_system/"><img class="img-fluid mb-3" src="<?= base_url('assets/img/instagram.svg'); ?>"height="7%" width="7%"/></a> 
+                  <a href="https://www.linkedin.com/in/pt-cls-system/"><img class="img-fluid mb-3" src="<?= base_url('assets/img/linkedin.svg'); ?>"height="7%" width="7%"/></a>
+                  <a href="https://twitter.com/cls_system"><img class="img-fluid mb-3" src="<?= base_url('assets/img/facebook.svg'); ?>"height="7%" width="7%"/></a>
+                  <a href="https://www.facebook.com/PT-CLS-System-106976076848507/"><img class="img-fluid mb-3" src="<?= base_url('assets/img/twitter.svg'); ?>"height="7%" width="7%"/></a>
+                  </p>
+              </div>
+             
         </div>
       </section>
     </header>
     <div id="content">
 
-<section class="py-5">
+<section class="py-5" id="turun">
   <div class="container">
     <div class="wow fadeIn">
       <p class="px-5 mb-5 pb-3 lead text-center">
-        Grow and Increase Sales of Your Business trough Our Best Customer Loyalty Platform Technology
+        Grow and Increase Sales of Your Business trough Our Best Customer Loyalty Platform Technology </br></br>
+        <img mb-3 src="<?= base_url('assets/img/home/Rectangle21.png'); ?>">
       </p>
       </div>
   </div>
 </section>
       
 <!-- carousel -->
-  <section class="text-center py-5  lighten-4 mobile-hide">
+  <section class="text-center lighten-4 mobile-hide">
   <div class="container">
-  <h4 class=" h4-responsive">MERCHANT</h4>
+  <h4 class=" h4-responsive pb-4"><span style=" font-weight: bold">TRUSTED BY OVER 300+ BRANDS</span></h4>
        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -88,12 +118,6 @@
             <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture34.png'); ?>" hight="50%" width="50%"></div>          
             <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture35.png'); ?>" hight="50%" width="50%"></div>          
             <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture36.png'); ?>" hight="50%" width="50%"></div>         
-            </div>
-            </div>
-            
-            <div class="carousel-item">
-            <div class="row">
-            <div class="col-lg-2 col-md-2 col-sm-2 pb-3"> <img class="img-fluid" src="<?= base_url('assets/img/sponsor/Picture37.png'); ?>" hight="50%" width="50%"></div>  
             </div>
             </div>
 
@@ -312,27 +336,30 @@
 
      <div class="row wow fadeInUp align-items-center " data-wow-delay=".3s">
         <div class="col-lg-6 col-xl-4 pb-3">
-          <div class=" col-lg-8 pb-2 static ">
-                <img class="img-fluid" src="<?= base_url('assets/img/home/artikel1_.png'); ?>" high="50%" width="50%" /><br>
-              We're excited to move ahead in the direction with CLS as our partner and check all boxes of a strong personalised CRM program. RMS Enterprise gives us the flexibility to decide what we want to reward each of our customers anytime.
-              <br><br>
-              <b> Archy <br> PT Anonymous Studio </b>
-          </div>
+          <img class="img-fluid transform_custom" src="<?= base_url('assets/img/home/artikel1_.png'); ?>" high="35%" width="35%" /><br>
+            <p class=" col-lg-8 pb-3 pt-3 static ">
+                </br></br> 
+                We're excited to move ahead in the direction with CLS as our partner and check all boxes of a strong personalised CRM program. RMS Enterprise gives us the flexibility to decide what we want to reward each of our customers anytime.
+                <br><br>
+                <b> Archy <br> PT Anonymous Studio </b>
+            </p>
         </div>
         <div class="col-lg-6 col-xl-4 pb-3">
-        <p class="col-lg-8 pb-2  static">
-        <img class="img-fluid" src="<?= base_url('assets/img/home/artikel2_.png'); ?>" high="50%" width="50%"/><br>
-          We're excited to move ahead in the direction with CLS as our partner and check all boxes of a strong personalised CRM program. RMS Enterprise gives us the flexibility to decide what we want to reward each of our customers anytime.
-          <br><br>
-          <b> Archy <br> PT Anonymous Studio </b>
+        <img class="img-fluid transform_custom" src="<?= base_url('assets/img/home/artikel2_.png'); ?>" high="35%" width="35%"/><br>
+          <p class="col-lg-8 pb-3 pt-3 static">
+            </br></br>
+            We're excited to move ahead in the direction with CLS as our partner and check all boxes of a strong personalised CRM program. RMS Enterprise gives us the flexibility to decide what we want to reward each of our customers anytime.
+            <br><br>
+            <b> Archy <br> PT Anonymous Studio </b>
           </p>
         </div>
         <div class="col-lg-6 col-xl-4 pb-3">
-        <p class="col-lg-8 pb-2  static">
-        <img class="img-fluid" src="<?= base_url('assets/img/home/artikel3_.png'); ?>" high="50%" width="50%"/><br>
-          We're excited to move ahead in the direction with CLS as our partner and check all boxes of a strong personalised CRM program. RMS Enterprise gives us the flexibility to decide what we want to reward each of our customers anytime.
-          <br><br>
-          <b> Archy <br> PT Anonymous Studio </b>
+        <img class="img-fluid transform_custom" src="<?= base_url('assets/img/home/artikel3_.png'); ?>" height="35%" width="35%"/><br>
+          <p class="col-lg-8 pb-3 pt-3 static">
+          </br></br>
+            We're excited to move ahead in the direction with CLS as our partner and check all boxes of a strong personalised CRM program. RMS Enterprise gives us the flexibility to decide what we want to reward each of our customers anytime.
+            <br><br>
+            <b> Archy <br> PT Anonymous Studio </b>
           </p>
         </div>
       </div>
@@ -349,7 +376,7 @@
           EXPERIENCE THE SUCCESFUL WITH US  
       </h2>
       <div class="text-center my-1">
-      <div  class="wow fadeInUp mb-5" data-wow-delay="0.3s"><a id="tell" class="btn btn-white dark-grey-text font-bold ml-0" href="" target="_blank">TELL ME MORE</a></div>
+      <div  class="wow fadeInUp mb-5" data-wow-delay="0.3s"><a id="tell" class="btn btn-white dark-grey-text font-bold ml-0" href="<?= base_url('frontpage/contact');?>" >TELL ME MORE</a></div>
       </div>
          </div>
   </div>
